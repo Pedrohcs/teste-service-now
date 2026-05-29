@@ -6,7 +6,7 @@
         <component_dependencies/>
         <composition><![CDATA[[
     {
-        "elementId": "list_livros",
+        "elementId": "record_list_livros",
         "elementLabel": "Lista de Livros",
         "propertyValues": {
             "table": {
@@ -21,7 +21,7 @@
                 "type": "JSON_LITERAL",
                 "value": "ORDERBYDESCsys_created_on"
             },
-            "listTitle": {
+            "title": {
                 "type": "TRANSLATION_LITERAL",
                 "value": {
                     "message": "Biblioteca de Livros",
@@ -31,12 +31,16 @@
             "limit": {
                 "type": "JSON_LITERAL",
                 "value": 20
+            },
+            "listMenuOpen": {
+                "type": "JSON_LITERAL",
+                "value": true
             }
         },
         "eventMappings": [],
         "slot": "Main",
         "definition": {
-            "id": "b894348564f837336186835a22831f50",
+            "id": "2b1c080881eeb5ca37b56936847d209",
             "type": "GRAPHIC"
         },
         "overrides": null,
