@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller_preset/>
+        <description/>
+        <executor_required>false</executor_required>
+        <has_on_load_handler>false</has_on_load_handler>
+        <macroponent display_value="Default">e0804e1fc3858310ac7db34ed40131e7</macroponent>
+        <name>Log Nome State</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    console.log('Client State variavelNome:', api.state.variavelNome);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 19:30:00</sys_created_on>
+        <sys_id>f684c957c3cd4310ac7db34ed40131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log Nome State</sys_name>
+        <sys_package display_value="Estante Virtual" source="x_1623559_estant_0">65f34157c3cd4310ac7db34ed401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Estante Virtual">65f34157c3cd4310ac7db34ed401314f</sys_scope>
+        <sys_update_name>sys_ux_client_script_f684c957c3cd4310ac7db34ed40131e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 19:30:00</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>
