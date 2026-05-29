@@ -28,9 +28,7 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-	if (current.getValue('u_editora')) {
-		current.setValue('u_editora', '-');
-	}
+	// A validação de campos de texto foi removida para suportar campos de referência.
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
