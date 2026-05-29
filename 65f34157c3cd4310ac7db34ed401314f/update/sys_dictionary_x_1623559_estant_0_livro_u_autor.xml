@@ -27,15 +27,15 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>32</max_length>
         <name>x_1623559_estant_0_livro</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_1623559_estant_0_autor">x_1623559_estant_0_autor</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
