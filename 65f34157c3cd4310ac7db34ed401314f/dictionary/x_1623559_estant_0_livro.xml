@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa244957c3cd4310ac7db34ed40131a8" label="Livro" max_length="40" name="x_1623559_estant_0_livro" type="collection">
+        <element label="Nome" max_length="128" name="u_nome" type="string"/>
+        <element label="Editora" max_length="40" name="u_editora" type="string"/>
+        <element label="Autor" max_length="40" name="u_autor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
