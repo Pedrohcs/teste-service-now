@@ -6,42 +6,38 @@
         <component_dependencies/>
         <composition><![CDATA[[
     {
-        "elementId": "record_list_livros",
+        "elementId": "simple_list_livros",
         "elementLabel": "Lista de Livros",
         "propertyValues": {
             "table": {
                 "type": "JSON_LITERAL",
                 "value": "x_1623559_estant_0_livro"
             },
+            "listTitle": {
+                "type": "TRANSLATION_LITERAL",
+                "value": {
+                    "message": "Meus Livros",
+                    "comment": ""
+                }
+            },
             "columns": {
                 "type": "JSON_LITERAL",
-                "value": "number,u_nome,u_autor,u_editora,sys_created_on"
+                "value": "number,u_nome,u_autor,u_editora"
             },
             "query": {
                 "type": "JSON_LITERAL",
                 "value": "ORDERBYDESCsys_created_on"
             },
-            "title": {
-                "type": "TRANSLATION_LITERAL",
-                "value": {
-                    "message": "Biblioteca de Livros",
-                    "comment": ""
-                }
-            },
             "limit": {
                 "type": "JSON_LITERAL",
-                "value": 20
-            },
-            "listMenuOpen": {
-                "type": "JSON_LITERAL",
-                "value": true
+                "value": 10
             }
         },
         "eventMappings": [],
         "slot": "Main",
         "definition": {
-            "id": "2b1c080881eeb5ca37b56936847d209",
-            "type": "GRAPHIC"
+            "id": "661ca304325a744215286e92b3a0e633",
+            "type": "COMPONENT"
         },
         "overrides": null,
         "isHidden": {
