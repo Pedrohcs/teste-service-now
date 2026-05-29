@@ -31,9 +31,6 @@
 	if (current.getValue('u_editora')) {
 		current.setValue('u_editora', '-');
 	}
-	if (current.getValue('u_autor')) {
-		current.setValue('u_autor', '-');
-	}
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
