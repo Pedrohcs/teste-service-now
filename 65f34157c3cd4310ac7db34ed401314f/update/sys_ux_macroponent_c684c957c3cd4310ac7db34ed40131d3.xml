@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <category>page</category>
+        <component_definition/>
+        <composition><![CDATA[[
+	{
+		"elementId": "list_1",
+		"elementLabel": "Livros",
+		"propertyValues": {
+			"table": {
+				"type": "JSON_LITERAL",
+				"value": "x_1623559_estant_0_livro"
+			},
+			"listTitle": {
+				"type": "TRANSLATION_LITERAL",
+				"value": {
+					"message": "Meus Livros",
+					"comment": ""
+				}
+			},
+			"columns": {
+				"type": "JSON_LITERAL",
+				"value": "number,u_nome,u_autor,u_editora"
+			},
+			"query": {
+				"type": "JSON_LITERAL",
+				"value": ""
+			},
+			"limit": {
+				"type": "JSON_LITERAL",
+				"value": 10
+			}
+		},
+		"eventMappings": [],
+		"slot": "Main",
+		"definition": {
+			"id": "b894348564f837336186835a22831f50",
+			"type": "GRAPHIC"
+		},
+		"overrides": null,
+		"isHidden": {
+			"type": "JSON_LITERAL",
+			"value": ""
+		},
+		"isHero": false,
+		"isNonDestructive": false,
+		"styles": {
+			"width": "100%"
+		}
+	}
+]]]></composition>
+        <da_relay_models/>
+        <data><![CDATA[[]]]></data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="PageTemplate">32960613876001104e76ea8d0ebb3522</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings/>
+        <layout><![CDATA[{
+	"default": {
+		"children": null,
+		"items": [
+			{
+				"slotName": "Main",
+				"rules": {
+					"flex": "1"
+				},
+				"styles": {
+					"display": "flex",
+					"flex-direction": "column"
+				}
+			}
+		],
+		"type": "flex"
+	}
+}]]></layout>
+        <name>Home</name>
+        <props/>
+        <required_translations>[]</required_translations>
+        <root_component/>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 19:00:00</sys_created_on>
+        <sys_id>c684c957c3cd4310ac7db34ed40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Estante Virtual" source="x_1623559_estant_0">65f34157c3cd4310ac7db34ed401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Estante Virtual">65f34157c3cd4310ac7db34ed401314f</sys_scope>
+        <sys_update_name>sys_ux_macroponent_c684c957c3cd4310ac7db34ed40131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 19:00:00</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>
