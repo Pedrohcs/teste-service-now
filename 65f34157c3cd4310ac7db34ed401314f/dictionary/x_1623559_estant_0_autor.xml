@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a2424957c3cd4310ac7db34ed40131b0" label="Autor" max_length="40" name="x_1623559_estant_0_autor" type="collection">
+        <element display="true" label="Nome" mandatory="true" max_length="100" name="u_nome" type="string"/>
+        <element label="Idade" max_length="40" name="u_idade" type="integer"/>
+        <element label="Nacionalidade" max_length="100" name="u_nacionalidade" type="string"/>
+    </element>
+</database>
