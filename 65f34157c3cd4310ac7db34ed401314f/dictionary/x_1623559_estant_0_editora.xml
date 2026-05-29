@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b2424957c3cd4310ac7db34ed40131c1" label="Editora" max_length="40" name="x_1623559_estant_0_editora" type="collection">
-        <element display="true" label="Nome" mandatory="true" max_length="100" name="u_nome" type="string"/>
+    <element db_object_id="b2424957c3cd4310ac7db34ed40131c1" max_length="40" name="x_1623559_estant_0_editora" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="CNPJ" max_length="20" name="u_cnpj" type="string"/>
+        <element display="true" label="Nome" mandatory="true" max_length="100" name="u_nome" type="string"/>
     </element>
 </database>

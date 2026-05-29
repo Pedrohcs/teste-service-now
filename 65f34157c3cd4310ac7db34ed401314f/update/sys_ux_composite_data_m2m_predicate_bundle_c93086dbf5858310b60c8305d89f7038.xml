@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">cd3086db7e858310323f169bdc5dcd3c</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">c93086db1c858310d5c0ae4d19174937</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 17:55:32</sys_created_on>
+        <sys_id>c93086dbf5858310b60c8305d89f7038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Estante Virtual" source="x_1623559_estant_0">65f34157c3cd4310ac7db34ed401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Estante Virtual">65f34157c3cd4310ac7db34ed401314f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_c93086dbf5858310b60c8305d89f7038</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 17:55:32</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

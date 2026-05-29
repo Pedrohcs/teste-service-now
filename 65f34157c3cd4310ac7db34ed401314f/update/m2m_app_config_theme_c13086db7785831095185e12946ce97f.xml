@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">cd3086db2f8583103ca0a8039936927e</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 17:55:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c13086db7785831095185e12946ce97f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Estante Virtual" source="x_1623559_estant_0">65f34157c3cd4310ac7db34ed401314f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Estante Virtual">65f34157c3cd4310ac7db34ed401314f</sys_scope>
+        <sys_update_name>m2m_app_config_theme_c13086db7785831095185e12946ce97f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 17:55:29</sys_updated_on>
+        <theme display_value="Light Theme">c93086db10858310e4f040e7a07c4c7f</theme>
+        <ux_app_configuration display_value="Estante Virtual App Config">783086db9e85831028f657c879a16a10</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

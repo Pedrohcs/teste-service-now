@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_cnpj" label="CNPJ" language="en" table="x_1623559_estant_0_editora">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_cnpj</element>
+            <help/>
+            <hint/>
+            <label>CNPJ</label>
+            <language>en</language>
+            <name>x_1623559_estant_0_editora</name>
+            <plural>CNPJs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 17:54:36</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CNPJ</sys_name>
+            <sys_package display_value="Estante Virtual" source="x_1623559_estant_0">65f34157c3cd4310ac7db34ed401314f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Estante Virtual">65f34157c3cd4310ac7db34ed401314f</sys_scope>
+            <sys_update_name>sys_documentation_x_1623559_estant_0_editora_u_cnpj_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 17:54:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

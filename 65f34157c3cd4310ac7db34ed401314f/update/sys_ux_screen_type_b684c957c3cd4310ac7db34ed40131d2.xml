@@ -15,4 +15,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-05-29 19:00:00</sys_updated_on>
     </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=b684c957c3cd4310ac7db34ed40131d2"/>
 </record_update>

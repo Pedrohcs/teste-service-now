@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
-        <component_definition/>
-        <composition><![CDATA[[
+        <component_dependencies/>
+        <composition>[
 	{
 		"elementId": "list_1",
 		"elementLabel": "Livros",
@@ -49,18 +50,21 @@
 			"width": "100%"
 		}
 	}
-]]]></composition>
+]</composition>
         <da_relay_models/>
-        <data><![CDATA[[]]]></data>
+        <data>[]</data>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <dispatched_events/>
         <ext_controller_dep/>
-        <extends display_value="PageTemplate">32960613876001104e76ea8d0ebb3522</extends>
+        <extends display_value="">32960613876001104e76ea8d0ebb3522</extends>
+        <extension_point/>
+        <form_factors/>
         <handled_events/>
         <interactions/>
         <interfaces/>
         <internal_event_mappings/>
-        <layout><![CDATA[{
+        <layout>{
 	"default": {
 		"children": null,
 		"items": [
@@ -77,11 +81,19 @@
 		],
 		"type": "flex"
 	}
-}]]></layout>
+}</layout>
+        <macroponent_dependencies/>
         <name>Home</name>
+        <output_prop_mapping/>
         <props/>
         <required_translations>[]</required_translations>
         <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version/>
+        <state_persistence_config/>
+        <state_properties/>
+        <style_config/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-29 19:00:00</sys_created_on>
@@ -95,4 +107,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2026-05-29 19:00:00</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=c684c957c3cd4310ac7db34ed40131d3"/>
 </record_update>
